@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+  color: var(--buutom-primary);
+}
+
+body{
+  --background: #fafafa;
+  --buutom-primary: #0095f6;
+
+
+
+  background-color: var(--background);
+  height: 100%;
+  width: 100%;
+  font-size: 14px;
+  line-height: 18px;
+}
